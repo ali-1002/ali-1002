@@ -22,7 +22,7 @@
       - 🛠️ I work with Linux (Ubuntu), Docker, and server configuration.
       - 📝 I share my experiences and projects on my blog.
       
-      📫 How to reach me: [suvonov210@gmail.com](mailto:suvonov210@gmail.com)
+      📫 How to reach me: [alijonsuvonov77@gmail.com](mailto:alijonsuvonov77@gmail.com)
 
     </td>
     <td valign="top" width="50%">
@@ -36,5 +36,5 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-1002&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
