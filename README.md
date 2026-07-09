@@ -24,7 +24,7 @@
 
 📫 How to reach me: [alijonsuvonov77@gmail.com](mailto:alijonsuvonov77@gmail.com)
 
- </td>
+  </td>
     <td valign="top" width="50%">
 
 ![](https://raw.githubusercontent.com/suxrobergashev/suxrobergashev/main/giphy.gif)
