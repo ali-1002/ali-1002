@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Alijon! 👋
 
-<!--
-**ali-1002/ali-1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Python Backend Developer
 
-Here are some ideas to get you started:
+<!-- Beautiful badges for social media -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_Link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Your_Instagram_Link)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](Your_Telegram_Link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table align="center" border="0">
+  <tr>
+    <td valign="top" width="50%">
+      
+      ### About Me:
+      - 💻 I am currently working on backend projects using **Django** and **DRF**.
+      - 🤖 I'm passionate about building Telegram bots and automation systems.
+      - 🛠️ I work with Linux (Ubuntu), Docker, and server configuration.
+      - 📝 I share my experiences and projects on my blog.
+      
+      📫 How to reach me: [suvonov210@gmail.com](mailto:suvonov210@gmail.com)
+
+    </td>
+    <td valign="top" width="50%">
+      <!-- Right side image or GIF -->
+      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJAXK/giphy.gif" align="right" alt="Coding" width="350" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
