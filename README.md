@@ -24,11 +24,12 @@
 
 📫 How to reach me: [alijonsuvonov77@gmail.com](mailto:alijonsuvonov77@gmail.com)
 
-  </td>
+ </td>
     <td valign="top" width="50%">
-      <!-- Giphy gif -->
-      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJAXK/giphy.gif" align="right" alt="Coding" width="350" />
-    </td>
+
+![](https://raw.githubusercontent.com/suxrobergashev/suxrobergashev/main/giphy.gif)
+
+  </td>
   </tr>
 </table>
 
