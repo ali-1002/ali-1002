@@ -20,7 +20,7 @@
 - 💻 Backend Developer specializing in **Python, Django, and Django REST Framework**.
 - 🔐 Experienced in building secure **REST APIs**, **JWT Authentication**, and custom middleware.
 - 🗄️ Working with **PostgreSQL**, **MySQL**, and efficient database design.
-- 🐧 Comfortable with **Ubuntu Linux**, **Git**, **Docker**, and backend deployment.
+- 🐧 Comfortable with **Ubuntu Linux**, **Git**, and backend deployment.
 - 📚 Continuously learning **System Design**, **Performance Optimization**, and **Cybersecurity**.
 
 📫 How to reach me: [alijonsuvonov77@gmail.com](mailto:alijonsuvonov77@gmail.com)
