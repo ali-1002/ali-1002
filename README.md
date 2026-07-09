@@ -17,10 +17,11 @@
     <td valign="top" width="50%">
 
 ### About Me:
-- 💻 I am currently working on backend projects using **Django** and **DRF**.
-- 🤖 I'm passionate about building Telegram bots and automation systems.
-- 🛠️ I work with Linux (Ubuntu), Docker, and server configuration.
-- 📝 I share my experiences and projects on my blog.
+- 💻 Backend Developer specializing in **Python, Django, and Django REST Framework**.
+- 🔐 Experienced in building secure **REST APIs**, **JWT Authentication**, and custom middleware.
+- 🗄️ Working with **PostgreSQL**, **MySQL**, and efficient database design.
+- 🐧 Comfortable with **Ubuntu Linux**, **Git**, **Docker**, and backend deployment.
+- 📚 Continuously learning **System Design**, **Performance Optimization**, and **Cybersecurity**.
 
 📫 How to reach me: [alijonsuvonov77@gmail.com](mailto:alijonsuvonov77@gmail.com)
 
